@@ -88,6 +88,16 @@ After publication, this repository will be updated with:
 
 If you use or reference this repository, please cite the associated article once published.
 
+
+## Public dataset
+
+The dataset supporting this study is publicly available in the **BioStudies** database under accession:
+
+**S-EPMC5383064**
+
+Dataset page:  
+https://www.ebi.ac.uk/biostudies/studies?query=S-EPMC5383064
+
 ## Contact
 
 **Shayan Jalali**  
